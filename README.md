@@ -1,13 +1,15 @@
 ### Hey there, I'm Branimir and I'm a software engineer. 👋
 
 -:computer: I'm currently working in Javascript and React, you can check out my most recent project: [Sorting Visualizer][sortingVisualizer]</br>
--:book: I'm also learning about data structures and algorithms to prepare for my coding interview's!
+-:book: I'm also enrolled in [AlgoExpert.io] where I'm learning about data structures and algorithms to prepare for my coding interview's!
 
 ### Languages and Skills:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+/>
+<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -32,3 +34,4 @@ Here are some ideas to get you started:
 -->
 
 [sortingVisualizer]: https://branimirkoprivnjak.github.io/Sorting-Visualizer-App/
+[AlgoExpert.io]: https://www.algoexpert.io/product
