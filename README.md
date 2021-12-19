@@ -1,6 +1,6 @@
 ### Hey there, I'm Branimir and I'm a software engineer. 👋
 
--:computer: I'm currently working in Javascript and React, you can check out my most recent project: [Sorting Visualizer][sortingVisualizer]</br>
+-:computer: I'm currently working in Javascript and React, you can check out my most recent project: [Beta][Beta]</br>
 -:book: I'm also enrolled in [AlgoExpert.io] where I'm learning about data structures and algorithms to prepare for my coding interview's!
 
 ### Languages and Skills:
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[sortingVisualizer]: https://branimirkoprivnjak.github.io/Sorting-Visualizer-App/
+[Beta]: https://branimirkoprivnjak.github.io/Beta/
 [AlgoExpert.io]: https://www.algoexpert.io/product
